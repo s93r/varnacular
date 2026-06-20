@@ -5,7 +5,7 @@ Note: To execute commands through the command-line interface, you must navigate 
 1) INSTALLING LIBRARIES
 To install the required libraries, run the following command:
 
-> python check_and_install.py
+`python check_and_install.py`
 
 2) RUNNING THE APPLICATION
 To open the application, run the following command:
@@ -15,4 +15,5 @@ To open the application, run the following command:
 Once launched, you can continue using the application according to your needs through the provided graphical interface.
 
 **Notes on the Prediction Module**
+
 When performing a prediction, you must ensure that the microsatellites present in the data file to be processed match those required by the pretrained model you intend to use.
