@@ -1,0 +1,39 @@
+{
+  "main_frame_style": {
+    "title": "M.O.C.A.",
+    "fg_color": "#FFFFFF",
+    "geometry": "300x200",
+    "resizable": {
+      "width": false,
+      "height": false
+    }
+  },
+  "btn_open_train_frame_args": {
+    "text": "Open Training Module"
+    },
+  "btn_open_train_frame_grid": {
+    "padx": 50,
+    "pady": [20, 10]
+  },
+  "btn_open_pred_frame_args": {
+    "text": "Open Prediction Module"
+  },
+  "btn_open_pred_frame_grid": {
+    "padx": 50,
+    "pady": [10, 10]
+  },
+  "btn_open_models_catalog_args": {
+    "text": "Open Model Catalogue"
+  },
+  "btn_open_models_catalog_grid": {
+    "padx": 50,
+    "pady": [10, 10]
+  },
+  "btn_open_datasets_catalog_args": {
+    "text": "Open Dataset Catalogue"
+  },
+  "btn_open_datasets_catalog_grid": {
+    "padx": 50,
+    "pady": [10, 20]
+  }
+}

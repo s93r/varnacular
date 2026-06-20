@@ -1,0 +1,192 @@
+{
+  "train_root_style": {
+    "title": "Training Module",
+    "geometry": "500x718",
+    "resizable": {
+      "width": false,
+      "height": false
+    }
+  },
+  "train_frame_args": {
+    "corner_radius": 0,
+    "fg_color": "#FFFFFF",
+    "scrollbar_fg_color": "#FFFFFF",
+    "scrollbar_button_color": "#D1D1D6",
+    "scrollbar_button_hover_color": "#AEAEB2",
+    "orientation": "vertical"
+  },
+  "train_frame_grid": {
+    "padx": 0,
+    "pady": 0
+  },
+  "lbl_data_file_head_args": {
+    "text": "UPLOAD DATA"
+  },
+  "lbl_data_file_head_grid": {
+    "padx": 5,
+    "pady": [5, 1]
+  },
+  "lbl_data_file_text_args": {
+    "text": "Upload the training data:"
+  },
+  "lbl_data_file_text_grid": {
+    "padx": 5,
+    "pady": [1, 1]
+  },
+  "lbl_data_file_path_args": {
+    "text": "No File Selected"
+  },
+  "lbl_data_file_path_grid": {
+    "padx": 5,
+    "pady": [1, 1]
+  },
+  "btn_browse_data_file_args": {
+    "text": "Browse"
+  },
+  "btn_browse_data_file_grid": {
+    "padx": 5,
+    "pady": [1, 10]
+  },
+  "lbl_fsel_head_args": {
+    "text": "FEATURE SELECTION"
+  },
+  "lbl_fsel_head_grid": {
+    "padx": 5,
+    "pady": [10, 1]
+  },
+  "lbl_fsel_model_args": {
+    "text": "Select a model for feature selection:"
+  },
+  "lbl_fsel_model_grid": {
+    "padx": 5,
+    "pady": [1, 1]
+  },
+  "menu_select_fsel_model_args": {
+  },
+  "menu_select_fsel_model_grid": {
+    "padx": 5,
+    "pady": [1, 5]
+  },
+  "lbl_fsel_cv_args": {
+    "text": "Select a cross-validation method for feature selection:"
+  },
+  "lbl_fsel_cv_grid": {
+    "padx": 5,
+    "pady": [5, 1]
+  },
+  "menu_select_fsel_cv_args": {
+  },
+  "menu_select_fsel_cv_grid": {
+    "padx": 5,
+    "pady": [1, 10]
+  },
+  "lbl_train_head_args": {
+    "text": "MODEL TRAINING"
+  },
+  "lbl_train_head_grid": {
+    "padx": 5,
+    "pady": [10, 1]
+  },
+  "lbl_outer_cv_args": {
+    "text": "Select a cross-validation method for model performance:"
+  },
+  "lbl_outer_cv_grid": {
+    "padx": 5,
+    "pady": [1, 1]
+  },
+  "menu_select_outer_cv_args": {
+  },
+  "menu_select_outer_cv_grid": {
+    "padx": 5,
+    "pady": [1, 5]
+  },
+  "lbl_inner_cv_args": {
+    "text": "Select a cross-validation method for hyperparameter tuning:"
+  },
+  "lbl_inner_cv_grid": {
+    "padx": 5,
+    "pady": [5, 1]
+  },
+  "menu_select_inner_cv_args": {
+  },
+  "menu_select_inner_cv_grid": {
+    "padx": 5,
+    "pady": [1, 5]
+  },
+  "lbl_train_model_args": {
+    "text": "Select a training model:"
+  },
+  "lbl_train_model_grid": {
+    "padx": 5,
+    "pady": [5, 1]
+  },
+  "menu_select_train_model_args": {
+  },
+  "menu_select_train_model_grid": {
+    "padx": 5,
+    "pady": [1, 5]
+  },
+  "lbl_param_file_text_args": {
+    "text": "Upload the parameter grid for model training:"
+  },
+  "lbl_param_file_text_grid": {
+    "padx": 5,
+    "pady": [5, 1]
+  },
+  "lbl_param_file_path_args": {
+    "text": "No File Selected"
+  },
+  "lbl_param_file_path_grid": {
+    "padx": 5,
+    "pady": [1, 1]
+  },
+  "btn_browse_param_file_args": {
+    "text": "Browse"
+  },
+  "btn_browse_param_file_grid": {
+    "padx": 5,
+    "pady": [1, 10]
+  },
+  "lbl_save_head_args": {
+    "text": "SAVE RESULTS"
+  },
+  "lbl_save_head_grid": {
+    "padx": 5,
+    "pady": [10, 1]
+  },
+  "lbl_out_dir_text_args": {
+    "text": "Select the result folder:"
+  },
+  "lbl_out_dir_text_grid": {
+    "padx": 5,
+    "pady": [1, 1]
+  },
+  "lbl_out_dir_path_args": {
+    "text": "No Folder Selected"
+  },
+  "lbl_out_dir_path_grid": {
+    "padx": 5,
+    "pady": [1, 1]
+  },
+  "btn_browse_out_dir_args": {
+    "text": "Browse"
+  },
+  "btn_browse_out_dir_grid": {
+    "padx": 5,
+    "pady": [1, 10]
+  },
+  "sep_args": {
+    "orient": "horizontal"
+  },
+  "sep_grid": {
+    "padx": 5,
+    "pady": [5, 5]
+  },
+  "btn_run_args": {
+    "text": "Run"
+  },
+  "btn_run_grid": {
+    "padx": 5,
+    "pady": [10, 10]
+  }
+}

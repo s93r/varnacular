@@ -1,0 +1,57 @@
+{
+  "btn_style": {
+    "height": 30,
+    "corner_radius": 5,
+    "fg_color": "#007AFF",
+    "hover_color": "#0040DD",
+    "text_color": "#FFFFFF"
+  },
+  "btn_enb_state_style": {
+    "height": 30,
+    "corner_radius": 5,
+    "fg_color": "#28CD41",
+    "hover_color": "#007D1B",
+    "text_color": "#FFFFFF",
+    "state": "normal"
+  },
+  "btn_dsb_state_style": {
+    "height": 30,
+    "corner_radius": 5,
+    "fg_color": "#FF3B30",
+    "hover_color": "#D70015",
+    "text_color": "#FFFFFF",
+    "state": "disabled"
+  },
+  "lbl_head_style": {
+    "height": 30,
+    "corner_radius": 5,
+    "fg_color": "#FFFFFF",
+    "text_color": "#C93400",
+    "anchor": "w"
+  },
+  "lbl_text_style": {
+    "height": 30,
+    "corner_radius": 5,
+    "fg_color": "#E9F5FF",
+    "text_color": "#0040DD",
+    "anchor": "w"
+  },
+  "lbl_path_style": {
+    "height": 30,
+    "corner_radius": 5,
+    "fg_color": "#EBEBF0",
+    "text_color": "#6C6C70",
+    "anchor": "w"
+  },
+  "menu_style": {
+    "height": 30,
+    "corner_radius": 5,
+    "fg_color": "#EBEBF0",
+    "button_color": "#D1D1D6",
+    "button_hover_color": "#AEAEB2",
+    "text_color": "#6C6C70",
+    "dropdown_fg_color": "#EBEBF0",
+    "dropdown_hover_color": "#D8D8DC",
+    "dropdown_text_color": "#6C6C70"
+  }
+}

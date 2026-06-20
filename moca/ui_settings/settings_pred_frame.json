@@ -1,0 +1,99 @@
+{
+  "pred_root_style": {
+    "title": "Prediction Module",
+    "geometry": "500x403",
+    "resizable": {
+      "width": false,
+      "height": false
+    }
+  },
+  "pred_frame_args": {
+    "corner_radius": 0,
+    "fg_color": "#FFFFFF",
+    "scrollbar_fg_color": "#FFFFFF",
+    "scrollbar_button_color": "#8E8E93",
+    "scrollbar_button_hover_color": "#6C6C70",
+    "orientation": "vertical"
+  },
+  "pred_frame_grid": {
+    "padx": 0,
+    "pady": 0
+  },
+  "lbl_data_file_form_args": {
+    "text": "Upload the prediction data:"
+  },
+  "lbl_data_file_form_grid": {
+    "padx": 5,
+    "pady": [5, 1]
+  },
+  "lbl_data_file_path_args": {
+    "text": "No File Selected"
+  },
+  "lbl_data_file_path_grid": {
+    "padx": 5,
+    "pady": [1, 1]
+  },
+  "btn_browse_data_file_args": {
+    "text": "Browse"
+  },
+  "btn_browse_data_file_grid": {
+    "padx": 5,
+    "pady": [1, 10]
+  },
+  "lbl_refs_files_form_args": {
+    "text": "Select a reference dataset and a pretrained model for data prediction:"
+  },
+  "lbl_refs_files_form_grid": {
+    "padx": 5,
+    "pady": [10, 1]
+  },
+  "lbl_refs_data_file_path_args": {
+    "text": "No Dataset Selected"
+  },
+  "lbl_refs_data_file_path_grid": {
+    "padx": 5,
+    "pady": [1, 1]
+  },
+  "lbl_refs_model_file_path_args": {
+    "text": "No Model Selected"
+  },
+  "lbl_refs_model_file_path_grid": {
+    "padx": 5,
+    "pady": [1, 1]
+  },
+  "btn_browse_refs_files_args": {
+    "text": "Browse"
+  },
+  "btn_browse_refs_files_grid": {
+    "padx": 5,
+    "pady": [1, 10]
+  },
+  "lbl_out_dir_form_args": {
+    "text": "Select the result folder:"
+  },
+  "lbl_out_dir_form_grid": {
+    "padx": 5,
+    "pady": [10, 1]
+  },
+  "lbl_out_dir_path_args": {
+    "text": "No Folder Selected"
+  },
+  "lbl_out_dir_path_grid": {
+    "padx": 5,
+    "pady": [1, 1]
+  },
+  "btn_browse_out_dir_args": {
+    "text": "Browse"
+  },
+  "btn_browse_out_dir_grid": {
+    "padx": 5,
+    "pady": [1, 10]
+  },
+  "btn_run_args": {
+    "text": "Run"
+  },
+  "btn_run_grid": {
+    "padx": 5,
+    "pady": [10, 5]
+  }
+}
