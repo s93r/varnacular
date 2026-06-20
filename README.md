@@ -10,7 +10,7 @@ To install the required libraries, run the following command:
 2) RUNNING THE APPLICATION
 To open the application, run the following command:
 
-python -W ignore gui.py
+> python -W ignore gui.py
 
 Once launched, you can continue using the application according to your needs through the provided graphical interface.
 
