@@ -2,12 +2,14 @@ To run the code, Python must be installed on the device in use. Once this requir
 
 Note: To execute commands through the command-line interface, you must navigate to the same folder where the source files are stored.
 
-1) INSTALLING LIBRARIES
+**1) INSTALLING LIBRARIES**
+
 To install the required libraries, run the following command:
 
 `python check_and_install.py`
 
-2) RUNNING THE APPLICATION
+**2) RUNNING THE APPLICATION**
+
 To open the application, run the following command:
 
 `python -W ignore gui.py`
